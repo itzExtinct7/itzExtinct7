@@ -16,3 +16,5 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzextinct7&show_icons=true&locale=en" alt="itzextinct7" /></p>
+## [Discord Server 😎](https://dsc.gg/extinctop)
+<a href="https://dsc.gg/extinctop"><img src="https://discord.com/api/guilds/892665051918512178/widget.png?style=banner2"></a>
