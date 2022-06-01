@@ -15,7 +15,8 @@
 <a href="https://discord.gg/https://discord.gg/MRbJCmv4YJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/MRbJCmv4YJ" height="30" width="40" /></a>
 </p>
 ---
-### Discord Status
+<h3 align="left">Discord Status:</h3>
+<L align="left">
 <a href="https://discord.com/users/755032387557130340">
 <img height="80px" src="https://discord.c99.nl/widget/theme-4/755032387557130340.png" />
 </a>
