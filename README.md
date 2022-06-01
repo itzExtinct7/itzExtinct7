@@ -18,6 +18,6 @@
 <a href="https://discord.com/users/755032387557130340">
 <img height="80px" src="https://discord.c99.nl/widget/theme-4/755032387557130340.png" />
 </a>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzextinct7&show_icons=true&locale=en" alt="itzextinct7" /></p>
+
 
