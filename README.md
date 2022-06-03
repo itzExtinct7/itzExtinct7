@@ -19,6 +19,11 @@
 <a href="https://discord.com/users/755032387557130340">
 <img height="80px" src="https://discord.c99.nl/widget/theme-4/755032387557130340.png" />
 </a>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzextinct7&show_icons=true&locale=en" alt="itzextinct7" /></p>
+### Github Analytics :
 
+<div width="50%"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=ItzExtinct7&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=ItzExtinct7&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
+
+<img width="80%" src="https://activity-graph.herokuapp.com/graph?username=ItzExtinct7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></div>
 
