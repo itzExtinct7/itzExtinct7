@@ -14,6 +14,9 @@
 <a href="https://www.youtube.com/c/mr extinct codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr extinct codes" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/MRbJCmv4YJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/MRbJCmv4YJ" height="30" width="40" /></a>
 </p>
+<h3 align="left">Language And Tools:</h3>
+<p align="left">
+<img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
 <h3 align="left">Discord Status:</h3>
 <L align="left">
 <a href="https://discord.com/users/755032387557130340">
