@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Milano Multipurpose Bot](https://discord.gg/MRbJCmv4YJ)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://discord.gg/MRbJCmv4YJ](https://discord.gg/MRbJCmv4YJ)
 
